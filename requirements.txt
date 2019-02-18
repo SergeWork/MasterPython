@@ -25,7 +25,6 @@ MarkupSafe==1.1.0
 matplotlib==2.2.2
 networkx==2.1
 numpy==1.14.5
-opencv-python==3.4.1.15
 pandas==0.22.0
 parso==0.3.2
 Pillow==5.0.0
